@@ -172,7 +172,7 @@ p {
   z-index: 5;
   transition: all .4s ease-in-out;
   border: none;
-  background: #E8505B;
+  background: #38B6FF;
   overflow: hidden;
 }
 
@@ -208,7 +208,7 @@ p {
 .scroll-top {
   width: 45px;
   height: 45px;
-  background: #E8505B;
+  background: #38B6FF;
   display: flex;
   justify-content: center;
   align-items: center;
