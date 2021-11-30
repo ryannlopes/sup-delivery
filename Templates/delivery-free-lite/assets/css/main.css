@@ -34,7 +34,7 @@ button:focus,
 }
 
 a:hover {
-  color: #E8505B;
+  color: #38B6FF;
 }
 
 a {
@@ -102,7 +102,7 @@ h1 {
 .section-title span {
   font-size: 25px;
   font-weight: 600;
-  color: #E8505B;
+  color: #38B6FF;
   margin-bottom: 20px;
 }
 
