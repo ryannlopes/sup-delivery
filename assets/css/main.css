@@ -314,7 +314,7 @@ p {
   height: 100%;
   border-style: solid;
   /* Spinner Color */
-  border-color: #E8505B #E8505B #ddd;
+  border-color:  #38B6FF  #38B6FF #ddd;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -1404,7 +1404,7 @@ p {
 
 .navbar-nav .nav-item .sub-menu li a.active, .navbar-nav .nav-item .sub-menu li a:hover {
   padding-left: 25px;
-  color: #E8505B;
+  color:  #38B6FF;
 }
 
 .navbar-nav .sub-nav-toggler {
@@ -1882,8 +1882,8 @@ p {
 }
 
 .footer .footer-widget .download-btns a:hover {
-  background: #E8505B;
-  border-color: #E8505B;
+  background:  #38B6FF;
+  border-color:  #38B6FF;
 }
 
 .footer .footer-widget .download-btns a .icon {
@@ -1918,7 +1918,7 @@ p {
 }
 
 .footer .footer-widget ul.links li a:hover {
-  color: #E8505B;
+  color:  #38B6FF;
 }
 
 @media (min-width: 1600px) {
